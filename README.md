@@ -84,3 +84,6 @@ def func(x,y):
 ![이미지 연습](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/64px-Octicons-mark-github.svg.png)
 
 
+저장소 내부의 이미지 사용
+
+![이미지 연습 내부 저장소](./)
