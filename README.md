@@ -69,8 +69,10 @@ def func(x,y):
 
 링크
 
-<www.naver.com>
+<http://www.naver.com>
 
-[네이버]<www.naver.com>
+(http://www.naver.com)
 
-[네이버]<www.naver.com, "부가 설명">
+[네이버](www.naver.com)
+
+[네이버](www.naver.com, "부가 설명")
