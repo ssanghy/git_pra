@@ -60,9 +60,17 @@
 
 한줄 소스코드 `def func(x,y): ` (`` 그레이브 키 사이에 소스코드 넣기)
 
-소스 코드 삽입(``` , ```)
+소스 코드 삽입(양옆에 ```(그레이브 키))
 
 ```python
 def func(x,y):
   return x + y
 ```
+
+링크
+
+<www.naver.com>
+
+[네이버]<www.naver.com>
+
+[네이버]<www.naver.com, "부가 설명">
