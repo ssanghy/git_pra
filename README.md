@@ -76,3 +76,11 @@ def func(x,y):
 [네이버](www.naver.com)
 
 [네이버](www.naver.com, "부가 설명")
+
+
+
+웹사이트에 있는 이미지 사용
+
+![이미지 연습](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/64px-Octicons-mark-github.svg.png)
+
+
